@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BMD VideoHub Controller</string>
+    <string name="connect">连接</string>
+    <string name="disconnect">断开</string>
+    <string name="ip_address_hint">输入IP地址</string>
+    <string name="routing_control">路由控制</string>
+    <string name="set_route">设置路由</string>
+    <string name="device_status">设备状态</string>
+    <string name="initializing">等待连接设备...</string>
+    <string name="connected">已连接到设备</string>
+    <string name="connection_failed">连接失败: %s</string>
+    <string name="route_set_success">路由设置成功: 输出 %d → 输入 %d</string>
+    <string name="route_set_failed">路由设置失败: %s</string>
+</resources>
